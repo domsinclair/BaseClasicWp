@@ -24,7 +24,7 @@
         class="absolute top-0 px-3 py-4 font-semibold text-white duration-300 ease-in-out -translate-y-16 bg-blue-800 rounded-b-lg dark:bg-gray-900 left-9 focus:translate-y-0"
         href="#main-content"
         >Skip To Content</a
-      > --><a href="#main" class="dark:bg-gray-50 focus:pt-16 duration-300 z-[-1] ease-in-out -translate-y-16 absolute pt-20 container min-w-full flex flex-col justify-center text-gray-800 items-center top-0 left-0 focus:z-[999] focus:translate-y-0"><?php _e( 'Skip to Content', 'vtlclassic' ); ?></a>
+      > --><a href="#main" class="dark:bg-gray-50 focus:pt-16 duration-300 z-[-1] ease-in-out -translate-y-16 absolute container min-w-full flex flex-col justify-center text-gray-800 items-center top-0 left-0 focus:z-[999] focus:translate-y-0"><?php _e( 'Skip to Content', 'vtlclassic' ); ?></a>
             <nav class="bg-white border-gray-200 px-2 sm:px-4 py-2.5 dark:bg-gray-900" aria-label="main navigation">
                 <div class="container flex flex-wrap items-center justify-between mx-auto"><a href="https://flowbite.com/" class="flex items-center"> <img src="https://flowbite.com/docs/images/logo.svg" class="h-6 mr-3 sm:h-9" alt="Flowbite Logo"/> <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white"><?php _e( 'Flowbite', 'vtlclassic' ); ?></span> </a>
                     <button data-collapse-toggle="navbar-default" type="button" class="inline-flex items-center p-2 ml-3 text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600" aria-controls="navbar-default" aria-expanded="false"><span class="sr-only"><?php _e( 'Open main menu', 'vtlclassic' ); ?></span>
