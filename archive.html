@@ -3,7 +3,7 @@
   lang="en"
   wp-template
   wp-template-export-as="archive.php"
-  wp-template-define-master-page="true"
+  class="scroll-auto md:scroll-smooth"
 >
   <head>
     <meta charset="UTF-8" />
@@ -13,11 +13,15 @@
     <title>Document</title>
   </head>
   <body>
-    <section class="min-w-full p-4 bg-white dark:bg-gray-800" wp-site-content>
+    <main
+      id="main"
+      class="min-w-full p-4 bg-white dark:bg-gray-800"
+      wp-site-content
+    >
       <div
         class="container p-4 mx-auto prose prose-lg bg-white dark:bg-gray-800"
         cms-post-content
       ></div>
-    </section>
+    </main>
   </body>
 </html>
